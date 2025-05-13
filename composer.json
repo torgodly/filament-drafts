@@ -1,5 +1,5 @@
 {
-    "name": "guava/filament-drafts",
+    "name": "torgodly/filament-drafts",
     "description": "A filament plugin that adds the ability to manage drafts and revisions of your models.",
     "type": "library",
     "minimum-stability": "stable",
